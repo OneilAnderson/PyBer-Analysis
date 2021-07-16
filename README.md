@@ -11,6 +11,7 @@ When we produced these results, we noticed that the total rides, total drivers a
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/85713532/125900029-65f851e6-9c00-4eb2-a670-5029502efb23.png)
 
 <img width="597" alt="Summary" src="https://user-images.githubusercontent.com/85713532/125900116-c067aaf7-e586-46d2-80a1-cb777b15a996.png">
+
 ## Summary
 
 One suggestion for the CEO is to address the difference between the average fare per ride and average fare per driver in rural areas. This could be due to longer distances between destinations or the amount of total drivers to total rides. Another suggestion is to look into the difference in total drivers to total rides in urban areas. The amount of rides could attract a high amount of drivers or the distances between the destinations could be shorter, leading to a greater profit between gas and average fare per driver. The last suggestion is to look into the slightly greater average fare per driver compared to the average fare per rides in the suburbs. This could be due to different distances for destinations and could discourage drivers, which could lead to less total drivers. However, it raises the question to why urban drivers do not seek to enter suburban driving, which has a far higher average fare per driver. 
